@@ -100,6 +100,8 @@ wsimport  如果不支持请查看jdk环境是否正常
 
 -p  指定目标程序包
 
+-keep  如果去掉不会生成.class文件
+
 最后生成的文件会存放在D:\project\java\songtaoguanqu\dataCenter\src\main\java\com\kwantler\interchange\wsdl\service\hello\clientInvoke
 
 ##代码
